@@ -47,12 +47,9 @@ I’m always open to collaborating with fellow professionals, entrepreneurs, and
 
 ## 🌱 What I’m Working On:
 
-## Engineering Leadership: 
-I bring extensive experience in managing complex projects, optimizing processes, and leading teams to deliver outstanding results.
-## Global Entrepreneurship: 
-As the founder and manager of several businesses, I’ve honed my skills in strategy, operations, and scaling companies across diverse industries.
-## Innovative Projects: 
-From engineering solutions to sustainable living initiatives, I’m passionate about creating impactful and forward-thinking ventures.
+**Engineering Leadership:** I bring extensive experience in managing complex projects, optimizing processes, and leading teams to deliver outstanding results.
+**Global Entrepreneurship:** As the founder and manager of several businesses, I’ve honed my skills in strategy, operations, and scaling companies across diverse industries.
+**Innovative Projects:** From engineering solutions to sustainable living initiatives, I’m passionate about creating impactful and forward-thinking ventures.
 
 **What is _frontmatter_?**: The syntax Jekyll files use is called YAML frontmatter. It goes at the top of your file and looks something like this:
 
