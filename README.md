@@ -16,25 +16,7 @@ I’m a seasoned Mechanical and Process Engineer with 18 years of experience in 
 
 
 
-🌟 Career Highlights:
-Engineering Management: Over nearly two decades, I’ve successfully led multidisciplinary teams in delivering high-stakes engineering projects across various sectors.
-Commissioning Expertise: I specialize in ensuring the seamless transition of systems from construction to operation, guaranteeing efficiency and reliability.
-Entrepreneurial Impact: My businesses span multiple sectors, where I apply strategic thinking and innovation to create value and drive growth globally.
 
-💡 What Drives Me:
-Precision and Innovation: Whether in engineering or business, I strive to deliver practical, effective, and innovative solutions to complex challenges.
-Leadership: Leading teams and fostering collaboration is at the heart of my work, ensuring that every project and venture achieves its full potential.
-Global Perspective: With experience working in diverse environments and industries, I bring a unique perspective to both engineering and entrepreneurial endeavors.
-
-📈 Skills and Interests:
-Mechanical and process engineering design
-Engineering project management and commissioning
-Business development and entrepreneurship
-Process optimization and efficiency improvements
-Exploring innovations in technology and sustainability
-
-🌍 Let’s Connect:
-I’m always open to collaborating with fellow professionals, entrepreneurs, and innovators. Whether it’s discussing engineering challenges, entrepreneurial opportunities, or sustainable solutions, feel free to reach out—I’d love to connect!
 
 </header>
 
@@ -53,6 +35,27 @@ I’m always open to collaborating with fellow professionals, entrepreneurs, and
 
 **Innovative Projects:** From engineering solutions to sustainable living initiatives, I’m passionate about creating impactful and forward-thinking ventures.
 
+## 🌟 Career Highlights:
+**Engineering Management:** Over nearly two decades, I’ve successfully led multidisciplinary teams in delivering high-stakes engineering projects across various sectors.
+
+**Commissioning Expertise:** I specialize in ensuring the seamless transition of systems from construction to operation, guaranteeing efficiency and reliability.
+
+**Entrepreneurial Impact:** My businesses span multiple sectors, where I apply strategic thinking and innovation to create value and drive growth globally.
+
+## 💡 What Drives Me:
+**Precision and Innovation:** Whether in engineering or business, I strive to deliver practical, effective, and innovative solutions to complex challenges.
+**Leadership:** Leading teams and fostering collaboration is at the heart of my work, ensuring that every project and venture achieves its full potential.
+**Global Perspective:** With experience working in diverse environments and industries, I bring a unique perspective to both engineering and entrepreneurial endeavors.
+
+## 📈 Skills and Interests:
+Mechanical and process engineering design
+Engineering project management and commissioning
+Business development and entrepreneurship
+Process optimization and efficiency improvements
+Exploring innovations in technology and sustainability
+
+🌍 Let’s Connect:
+I’m always open to collaborating with fellow professionals, entrepreneurs, and innovators. Whether it’s discussing engineering challenges, entrepreneurial opportunities, or sustainable solutions, feel free to reach out—I’d love to connect!
 **What is _frontmatter_?**: The syntax Jekyll files use is called YAML frontmatter. It goes at the top of your file and looks something like this:
 
 ```yml
