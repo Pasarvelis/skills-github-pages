@@ -13,10 +13,8 @@ Hi, I'm Petros!
 
 I’m a seasoned Mechanical and Process Engineer with 18 years of experience in engineering management and commissioning. Alongside my technical career, I’m also an entrepreneur, running multiple companies around the world. My work blends technical precision with business acumen, driving both engineering projects and innovative ventures to success.
 
-🌱 What I’m Working On:
-Engineering Leadership: I bring extensive experience in managing complex projects, optimizing processes, and leading teams to deliver outstanding results.
-Global Entrepreneurship: As the founder and manager of several businesses, I’ve honed my skills in strategy, operations, and scaling companies across diverse industries.
-Innovative Projects: From engineering solutions to sustainable living initiatives, I’m passionate about creating impactful and forward-thinking ventures.
+
+
 
 🌟 Career Highlights:
 Engineering Management: Over nearly two decades, I’ve successfully led multidisciplinary teams in delivering high-stakes engineering projects across various sectors.
@@ -47,11 +45,14 @@ I’m always open to collaborating with fellow professionals, entrepreneurs, and
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-## Step 4: Create a blog post
+## 🌱 What I’m Working On:
 
-_Your home page is looking great! :cowboy_hat_face:_
-
-GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially named files and frontmatter. The files must be named `_posts/YYYY-MM-DD-title.md`. You must also include `title` and `date` in your frontmatter.
+## Engineering Leadership: 
+I bring extensive experience in managing complex projects, optimizing processes, and leading teams to deliver outstanding results.
+## Global Entrepreneurship: 
+As the founder and manager of several businesses, I’ve honed my skills in strategy, operations, and scaling companies across diverse industries.
+## Innovative Projects: 
+From engineering solutions to sustainable living initiatives, I’m passionate about creating impactful and forward-thinking ventures.
 
 **What is _frontmatter_?**: The syntax Jekyll files use is called YAML frontmatter. It goes at the top of your file and looks something like this:
 
